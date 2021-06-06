@@ -4,6 +4,7 @@ package ex08.base;
    Copyright 2021 Rachel Schwarz
 */
 
+
 import java.util.Scanner;
 
 public class ex08 {
